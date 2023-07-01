@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw15-customHooks/static/css/main.ffe34ec7.css",
+    "main.js": "/hw15-customHooks/static/js/main.c298bc0b.js",
+    "static/js/787.bd2568f2.chunk.js": "/hw15-customHooks/static/js/787.bd2568f2.chunk.js",
+    "index.html": "/hw15-customHooks/index.html",
+    "main.ffe34ec7.css.map": "/hw15-customHooks/static/css/main.ffe34ec7.css.map",
+    "main.c298bc0b.js.map": "/hw15-customHooks/static/js/main.c298bc0b.js.map",
+    "787.bd2568f2.chunk.js.map": "/hw15-customHooks/static/js/787.bd2568f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.c298bc0b.js"
+  ]
+}
